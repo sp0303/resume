@@ -1,0 +1,72 @@
+{
+  "profiles": [
+    {
+      "basics": {
+        "name": "Patnayakuni Sharat",
+        "role": "MERN developer",
+        "email": "patnayakunisharat@gmail.com",
+        "mobile": "+919063200022",
+        "gender": "male",
+        "address": "Vizag, Andrapradesh"
+      },
+      "summary": [
+        "Web Development",
+        "Proficient in HTML5",
+        "Proficient in CSS3",
+        "Proficient in JavaScipt",
+        "Proficient in Bootstrap",
+        "Learning React"
+      ],
+      "education": [
+        {
+          "course": "B.tech in Computer Science",
+          "institute": "Andhra University",
+          "result": "still pursuing"
+        },
+        {
+          "course": "Intermediate",
+          "institute": "Narayana Jr College",
+          "result": "89%"
+        },
+        {
+          "course": "Tenth Class",
+          "institute": "Little angels School",
+          "result": "9.3"
+        }
+      ]
+    },
+    {
+      "basics": {
+        "name": "Babu Rao",
+        "role": "Android App developer",
+        "email": "janardhan@google.com",
+        "mobile": "+91 906322200",
+        "gender": "male",
+        "address": "Bheemili, Andrapradesh"
+      },
+      "summary": [
+        "Proficient in Java, Dart and python programming languages",
+        "3 years of experience working as a freelancer",
+        "Learning cloud computing",
+        "Blockchain Enthusiast"
+      ],
+      "education": [
+        {
+          "course": "B.tech in Computer Science",
+          "institute": "Amity University",
+          "result": "still pursuing"
+        },
+        {
+          "course": "Intermediate",
+          "institute": "Sri Chaitanya Jr. College",
+          "result": "82.5%"
+        },
+        {
+          "course": "Tenth Class",
+          "institute": "Catherine Public School",
+          "result": "95%"
+        }
+      ]
+    }
+  ]
+}
