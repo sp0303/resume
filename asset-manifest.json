@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/resume/static/js/main.17081324.chunk.js",
+    "main.js.map": "/resume/static/js/main.17081324.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/js/2.592ba5ed.chunk.js": "/resume/static/js/2.592ba5ed.chunk.js",
+    "static/js/2.592ba5ed.chunk.js.map": "/resume/static/js/2.592ba5ed.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.5ddab41b9e9d7c071e48d3e6ac1c2b83.js": "/resume/precache-manifest.5ddab41b9e9d7c071e48d3e6ac1c2b83.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/resume/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.592ba5ed.chunk.js.LICENSE.txt": "/resume/static/js/2.592ba5ed.chunk.js.LICENSE.txt",
+    "static/media/person.svg": "/resume/static/media/person.7ad1f30c.svg",
+    "static/media/person2.svg": "/resume/static/media/person2.27c8b601.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d8c91e.js",
+    "static/js/2.592ba5ed.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.17081324.chunk.js"
+  ]
+}
